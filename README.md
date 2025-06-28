@@ -14,7 +14,7 @@ python session 2
 >Key words :-
 >Key words are one reserved words each keyword has special meaning
 >Don't use Keyword in variable name, function name etc...
->False, None, True, and, as, assert, async, await, break, class,
+>Eg:- False, None, True, and, as, assert, async, await, break, class,
 >continue, def, del, elif, else, except, finally, for, from, global,
 >if, import, in, is, lambda, nonlocal, not, or,
 >pass, raise, return, try, white, with, yield
@@ -50,7 +50,7 @@ python session 2
 >           Maintain same variable name with different value is known as variable reintialisation
 >Eg:- id=1
 >     id=3
-> while printing id 3 will be printed not the 1
+> while printing id 3 will be printed not the 1 because its overwrite the previous number
 
 
 
