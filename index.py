@@ -18,3 +18,4 @@ print(type(department))
 print(type(age))
 print(type(salary))
 print(type(pf))
+#print
